@@ -34,7 +34,7 @@ Alt+R 刷新。如果你更新了某些翻译。但不想重启游戏，可以�
 
 
 ##自己修改翻译  
-插件对于未查询到翻译的内容会输出到...BepInEx\Translation\zh\Text 目录下的 _AutoTranslation 文件里，  
+插件对于未查询到翻译的内容会输出到...BepInEx\Translation\chs\Text 目录下的 _AutoTranslation 文件里，  
 找到要翻译的条目，将=后的内容修改就可以了。  
 插件使用的文本都是txt格式，其他的翻译文件也在上述目录。如果对某些翻译有自己的见解，可以自己手动修改。  
 
