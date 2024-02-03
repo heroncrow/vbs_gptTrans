@@ -24,7 +24,7 @@
   
 ## 使用说明  
 直接将本压缩包解压至游戏安装目录，然后启动游戏即可。  
-因为剧情简介的翻译是基于替换游戏源文件，请在安装本翻译前备份Standalone文件夹下的missionimage。
+因为剧情简介的翻译是基于替换游戏源文件，请在安装本翻译前备份Standalone文件夹下的missionimage。  
 如果以前安装过其他基于 XUnity Auto Translator 的翻译，请将其卸载，然后再安装。  
 
 
