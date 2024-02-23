@@ -23,9 +23,10 @@
 请自行体验。后续看反馈会进行调整。  
   
 ## 使用说明  
-直接将本压缩包解压至游戏安装目录，然后启动游戏即可。  
+直接将[本压缩包](https://github.com/heroncrow/vbs_gptTrans/releases/tag/v2.01.27)解压至游戏安装目录，然后启动游戏即可。  
 因为剧情简介的翻译是基于替换游戏源文件，请在安装本翻译前备份Standalone文件夹下的missionimage。  
 如果以前安装过其他基于 XUnity Auto Translator 的翻译，请将其卸载，然后再安装。  
+如果安装后发现游戏文本变为方块，请下载[字体替换补丁](https://github.com/heroncrow/vbs_gptTrans/releases/tag/fontfix_new)。
 
 
 ## 快捷键  
