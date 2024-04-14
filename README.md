@@ -25,8 +25,8 @@
 请自行体验。后续看反馈会进行调整。  
   
 ## 使用说明  
-直接将[本压缩包](https://github.com/heroncrow/vbs_gptTrans/releases/tag/v2.01.27)解压至游戏安装目录，然后启动游戏即可。  
-因为剧情简介的翻译是基于替换游戏源文件，请在安装本翻译补丁前备份Standalone文件夹下的missionimage。  
+直接将 [本压缩包](https://github.com/heroncrow/vbs_gptTrans/releases/tag/v2.01.27) 解压至游戏安装目录，然后启动游戏即可。  
+因为剧情简介的翻译是基于替换游戏源文件，请在安装本翻译补丁前备份 Standalone 文件夹下的 missionimage 。  
 如果以前安装过其他基于 XUnity Auto Translator 的翻译，请将其卸载，然后再安装本补丁。  
 如果安装后发现游戏文本变为方块，请下载[字体替换补丁](https://github.com/heroncrow/vbs_gptTrans/releases/tag/fontfix_new)。注意备份原文件。
 
@@ -37,9 +37,9 @@ Alt+R 刷新。如果你更新了某些翻译。但不想重启游戏，可以�
 
 
 ## 自己修改翻译  
-插件对于未查询到翻译的内容会输出到...BepInEx\Translation\chs\Text 目录下的 _AutoTranslation 文件里，  
+插件对于未查询到翻译的内容会输出到 ...BepInEx\Translation\chs\Text 目录下的 _AutoTranslation 文件里，  
 找到要翻译的条目，将=后的内容修改就可以了。  
-插件使用的文本都是txt格式，其他的翻译文件也在上述目录。如果对某些翻译有自己的见解，可以自己手动修改。  
+插件使用的文本都是 txt 格式，其他的翻译文件也在上述目录。如果对某些翻译有自己的见解，可以自己手动修改。  
 
 
 ## 协助完善：  
